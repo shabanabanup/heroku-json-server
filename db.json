@@ -1,0 +1,246 @@
+{
+    "posts": [
+      {
+        "id": 8,
+        "pname": "kids products",
+        "pdescription": "kids products for 4 to 6 years",
+        "price": 1270,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51XgDh4A_k8WPd7tSnr22RkRZ1dVH3DKbU2Io9LogXboPeoLMcN0SkVaoYqHVu5QNIYo&usqp=CAU"
+      },
+      {
+        "id": 9,
+        "pname": "kids blanket",
+        "pdescription": "kids blanket for 4 to 6 years",
+        "price": 350,
+        "img": "https://5.imimg.com/data5/KC/VE/MY-4302449/kids-blanket-7-500x500.jpeg"
+      },
+      {
+        "id": 10,
+        "pname": "kids food",
+        "pdescription": "kids food for girls 4-6 years",
+        "price": 450,
+        "img": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/kids-snacks-to-buy.jpg?quality=82&strip=1"
+      },
+      {
+        "id": 11,
+        "pname": "kids blanket",
+        "pdescription": "kids blanket for 4 to 6 years",
+        "price": 509,
+        "img": "https://5.imimg.com/data5/KC/VE/MY-4302449/kids-blanket-7-500x500.jpeg"
+      },
+      {
+        "id": 12,
+        "pname": "BICYCLE",
+        "pdescription": "kids toys BICYCLE for 4 to 6 years",
+        "price": 2000,
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/51s6bZQ-4dS._AC._SR360,460.jpg"
+      },
+      {
+        "id": 13,
+        "pname": "kids bottle",
+        "pdescription": "kids blanket for 4 to 6 years",
+        "price": 250,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQmqBwtm533AVs2dY4xJLIl_1ewVXWqWzJfw&usqp=CAU"
+      },
+      {
+        "id": 14,
+        "pname": "kids dress",
+        "pdescription": "kids dress  for 4 to 6 years",
+        "price": 1760,
+        "img": "https://i.pinimg.com/originals/45/0f/9a/450f9a23a44d8527da05377795006fa2.jpg"
+      },
+      {
+        "id": 15,
+        "pname": "kids blanket",
+        "pdescription": "kids blanket for 4 to 6 years",
+        "price": 500,
+        "img": "https://5.imimg.com/data5/KC/VE/MY-4302449/kids-blanket-7-500x500.jpeg"
+      },
+      {
+        "id": 16,
+        "pname": "kids bottle",
+        "pdescription": "kids bottle for 4 to 6 years",
+        "price": 300,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQmqBwtm533AVs2dY4xJLIl_1ewVXWqWzJfw&usqp=CAU"
+      },
+      {
+        "id": 18,
+        "pname": "kids story books",
+        "pdescription": "kids story books for 4 to 6 years",
+        "price": 150,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81ztsfyw67L.jpg"
+      },
+      {
+        "id": 2,
+        "pname": "Toys",
+        "pdescription": "Kids Building blocks",
+        "price": "1000",
+        "img": "https://th.bing.com/th/id/OIP.Gd6ov_glKB2t4KzG4vYWbwHaHa?pid=ImgDet&rs=1"
+      },
+      {
+        "id": 19,
+        "pname": "Kids Frock",
+        "pdescription": "Kids frock for age between 4 to 6yrs old",
+        "price": "950",
+        "img": "https://i.pinimg.com/originals/45/0f/9a/450f9a23a44d8527da05377795006fa2.jpg"
+      },
+      {
+        "id": 1,
+        "pname": "Headphones",
+        "pdescription": " Headphones",
+        "price": 3400,
+        "img": "https://th.bing.com/th/id/OIP.6fUrfdYdaP2E2FMAwbmviQHaHa?pid=ImgDet&rs=1"
+      },
+      {
+        "id": 20,
+        "pname": null,
+        "pdescription": null,
+        "price": null,
+        "img": null
+      },
+      {
+        "id": 21,
+        "pname": "ffas",
+        "pdescription": "asfgsghs",
+        "price": "1234",
+        "img": null
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "username": "john@gmail.com",
+        "useremail": "pallavikatari@gmail.com",
+        "password": "John@123",
+        "mobile": ""
+      },
+      {
+        "id": 3,
+        "username": "Admin",
+        "useremail": "admin@gmail.com",
+        "password": "admin@123",
+        "mobile": "9898989898"
+      },
+      {
+        "id": 4,
+        "username": "Jancy",
+        "useremail": "jancy@gmail.com",
+        "password": "jancy123",
+        "mobile": ""
+      },
+      {
+        "id": 5,
+        "uername": "Shabana",
+        "useremail": "shabana@gmail.com",
+        "password": "Shab123",
+        "mobile": "1234567899"
+      },
+      {
+        "id": 6,
+        "uername": "Rock",
+        "useremail": "rock@gmail.com",
+        "password": "Rock123",
+        "mobile": "1234567891"
+      },
+      {
+        "uername": "Shalini",
+        "useremail": "shalini@gmail.com",
+        "password": "Shalini123",
+        "mobile": "9876543212",
+        "id": 7
+      },
+      {
+        "uername": "",
+        "useremail": "bharat@gmail.com",
+        "password": "Bharat@123",
+        "mobile": "1234543211",
+        "id": 8
+      },
+      {
+        "uername": "",
+        "useremail": "radhikha@gmail.com",
+        "password": "Radi123",
+        "mobile": "7654321987",
+        "id": 9
+      },
+      {
+        "uername": "",
+        "useremail": "muskan@gmail.com",
+        "password": "Muskan@123",
+        "mobile": "9870654543",
+        "id": 10
+      },
+      {
+        "uername": "",
+        "useremail": "saniya@gmail.com",
+        "password": "Saniya@123",
+        "mobile": "9876540321",
+        "id": 11
+      },
+      {
+        "uername": "",
+        "useremail": "arunashree@gmail.com",
+        "password": "Aruna@123",
+        "mobile": "8765430931",
+        "id": 12
+      }
+    ],
+    "cart": [
+      {
+        "pname": "kids food",
+        "pdescription": "kids food for girls 4-6 years",
+        "price": 400,
+        "img": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/kids-snacks-to-buy.jpg?quality=82&strip=1",
+        "quantity": 1,
+        "id": 8
+      },
+      {
+        "pname": "BICYCLE",
+        "pdescription": "kids toys (BICYCLE) for girls 1-6 years",
+        "price": 4000,
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/51s6bZQ-4dS._AC._SR360,460.jpg",
+        "quantity": 2,
+        "id": 9
+      },
+      {
+        "pname": "kids story books",
+        "pdescription": "kids story books for girls 4-6 years",
+        "price": 400,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81ztsfyw67L.jpg",
+        "quantity": 1,
+        "id": 10
+      },
+      {
+        "pname": "BUILDING BLOCKS",
+        "pdescription": "kids toys (BUILDING BLOCKS) for girls 1-6 years",
+        "price": 500,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGcxxU9v0sPxDnm3Vy-wDaKlaV_BBkYXnsA&usqp=CAU",
+        "quantity": 1,
+        "id": 11
+      },
+      {
+        "pname": "kids products",
+        "pdescription": "kids products for girls 4-6 years",
+        "price": 400,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51XgDh4A_k8WPd7tSnr22RkRZ1dVH3DKbU2Io9LogXboPeoLMcN0SkVaoYqHVu5QNIYo&usqp=CAU",
+        "quantity": 2,
+        "id": 12
+      },
+      {
+        "pname": "kids dress",
+        "pdescription": "kids dress for girls 1-6 years",
+        "price": 1245,
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-B9I6lQ1jcFl3_PACtsZm-cN6zS-SGrEyV_q9YzICpfS1q0Q5PDTtXytypnEVYkJsrKAKZAMkiLksGku7Dsyy2ycsZChygFBGFPCp-T2-4Cs6eHL7UjbJ&usqp=CAc",
+        "quantity": 1,
+        "id": 14
+      },
+      {
+        "pname": "kids story books",
+        "pdescription": "kids story books for girls 4-6 years",
+        "price": 400,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81ztsfyw67L.jpg",
+        "quantity": 1,
+        "id": 15
+      }
+    ]
+  }
